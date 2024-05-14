@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Peruzzo Supermarket<br>👯 I’m looking to collaborate on Automation<br>🤝 I’m looking for help with Front-End<br>🌱 I’m currently learning React<br>💬 Ask me about any<br>⚡ Fun fact i'm tired of conservative companies
+🔭 I’m currently searching for working<br>👯 I’m looking to collaborate on Automation<br>🤝 I’m looking for help with Front-End<br>🌱 I’m currently learning React<br>💬 Ask me about any<br>⚡ Fun fact i'm tired of conservative companies
 
 
 ## 🌐 Socials:
